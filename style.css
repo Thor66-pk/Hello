@@ -1,0 +1,33 @@
+/* Make the background pink */
+body {
+  background-color: pink;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Style the headers */
+h1, h2 {
+  color: #333;
+}
+
+/* Make all images visible and neat */
+img {
+  width: 500px;
+  display: block;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+/* Center the special image */
+.center-img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  color:red;
+}
+.text{
+  background-color:green;
+}
