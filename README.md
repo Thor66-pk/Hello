@@ -1,3 +1,3 @@
 # Hello
 My first repository on GitHub
-i wan to master coding
+i want to master coding
